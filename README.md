@@ -13,6 +13,3 @@ $(document).hotkey('ctrl+alt', function() {});
 $(document).hotkey('enter+f1', function() {});
 ````
 
-Full list of special keys:
-
-
